@@ -1,22 +1,18 @@
-.row div{
-    font-size: 1.5em;
-    font-weight: 600;
-    line-height: 50px;
-    background: gold;
-    border: 3px solid orange;
-}
 
 .checkbox{
     display: inline-block;
+}
+
+label{
+    display: block;
 }
 
 .radio{
     display: inline-block;
 }
 
-.row .col-md-offset-2{
-    background: none;
-    border: 0px
+.radio .col-md-offset-1{
+    float: left;
 }
 
 button{
