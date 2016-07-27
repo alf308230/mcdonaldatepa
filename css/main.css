@@ -1,4 +1,9 @@
-
+/*.slider-container{*/
+    width: 100%;
+    height:1080px;
+    min-width: 50px;
+    background: url("../images/demo/01.jpg");
+}
 .checkbox{
     display: inline-block;
 }
