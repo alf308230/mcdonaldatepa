@@ -240,12 +240,12 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
 	display: inline-block;
-	background-color: rgba(255, 255, 255, 0.65);
+	background-color: rgba(254, 197, 3, 0.76);
 	margin-bottom: 25px;
 	padding: 4px 20px;
 	font-family: "Open Sans",sans-serif;
 	font-size: 19px;
-	color: #3E3E3E;
+	color: y;
 	font-weight: 300;
 	line-height: 40px;
 }
@@ -303,7 +303,7 @@ header .intro-text .intro-heading {
 	margin-left: -20px;
 	text-align: center;
 	position: absolute;
-	background: #23AD21;
+	background: red;
 }
 
 .dark-bg .section-title h2 {
@@ -349,7 +349,7 @@ header .intro-text .intro-heading {
 	color: #FFFFFF;
 	/* border: 3px solid #000; */
 	border-radius: 100px;
-	background-color: #23AD21;
+	background-color: rgba(254, 197, 3, 0.76);
 	margin: 0 2px 4px;
 	font-size: 24px;
 }
